@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # DDL - Data Definition Language
 * In Snowflake, DDL (Data Definition Language) encompasses a group of SQL commands that are used to create, modify, and remove the structure of database objects. These objects include tables, indexes, views, schemas, sequences, and more.
@@ -89,7 +89,7 @@ CREATE TABLE dept (
 );
 ```
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

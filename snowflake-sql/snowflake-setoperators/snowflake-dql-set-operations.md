@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # DQL - Set Operations 
 - Set operations in SQL are used to combine or compare the results of two or more queries.
@@ -74,7 +74,7 @@ EXCEPT
 SELECT 'Project: ' || CAST(projectno AS STRING) AS name FROM employees.projects;
 ```
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

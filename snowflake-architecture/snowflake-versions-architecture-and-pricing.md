@@ -1,8 +1,8 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../snowflake_tinitiate.png)
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 # Snowflake Versions, Architecture, and Pricing
 
@@ -74,7 +74,7 @@ Here are some key benefits:
 
 Snowflake's different versions, unique architecture, and flexible pricing model make it a powerful and cost-effective solution for data storage and processing. Whether you are a small business or a large enterprise, Snowflake provides the tools and features to manage your data efficiently. With Snowflake, you can focus on using your data to gain insights and make informed decisions without worrying about the technical complexities.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

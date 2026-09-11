@@ -1,8 +1,8 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../snowflake_tinitiate.png)
 # Snowflake 
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 # Introduction to Cloud Platforms
 
@@ -50,7 +50,7 @@ Let’s say you want to create a website for your school's science project. Here
 
 Cloud platforms are powerful tools that make it easier to store data, run applications, and manage resources over the internet. They offer flexibility, cost-efficiency, and accessibility, which are essential for both individuals and businesses. By understanding cloud platforms, you can take advantage of the many benefits they offer in our increasingly digital world.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

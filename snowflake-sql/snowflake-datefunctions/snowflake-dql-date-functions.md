@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # DQL - Date Functions 
 - Date functions in Snowflake are used to perform various operations on date and timestamp data stored in the database.
@@ -207,7 +207,7 @@ SELECT
     'ESTDateTime: ' || TO_CHAR(CONVERT_TIMEZONE('UTC', 'America/New_York', '2024-04-17 15:30:00'::timestamp), 'YYYY-MM-DD HH24:MI:SS') AS ESTDateTime;
 ```
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

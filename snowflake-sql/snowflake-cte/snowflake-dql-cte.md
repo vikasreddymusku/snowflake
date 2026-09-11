@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # DQL - Common Table Expressions (CTEs) 
 - In Snowflake, a Common Table Expression (CTE) is a temporary result set that you can reference within a SELECT, INSERT, UPDATE, or DELETE statement.
@@ -156,7 +156,7 @@ FROM EmpHierarchy;
 - Ability to reference the same CTE multiple times in a query.
 - Simplified complex queries by breaking them into smaller, logical components.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

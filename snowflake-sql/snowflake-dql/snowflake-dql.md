@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # DQL - Data Query Language 
 - In Snowflake, DQL (Data Query Language) refers to the subset of SQL (Structured Query Language) specifically designed for querying and retrieving data from a Snowflake database.
@@ -120,7 +120,7 @@ ORDER BY sal DESC
 LIMIT 10;
 ```
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

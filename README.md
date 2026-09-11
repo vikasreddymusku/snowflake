@@ -4,40 +4,40 @@
 
 ## Introduction to Saas Cloud
 ### [Introduction to Databases](snowflake-architecture/introduction-to-databases.md)
-### [Introduction to Cloud Platforms](introduction-to-cloud-platforms.md)
-### [Platform As A Service (PaaS)](platform-as-a-service.md)
-### [Software As A Service (Saas)](software-as-a-service.md)
+### [Introduction to Cloud Platforms](snowflake-architecture/introduction-to-cloud-platforms.md)
+### [Platform As A Service (PaaS)](snowflake-architecture/platform-as-a-service.md)
+### [Software As A Service (Saas)](snowflake-architecture/software-as-a-service.md)
 
 ## Introduction To Snowflake
-### [Introduction To Snowflake](introduction-to-snowflake.md)
-### [Snowflake SaaS Cloud Platform](snowflake-saas-cloud-platform.md)
-### [Traditional RDBMS vs Snowflake Platform](traditional-rdbms-vs-snowflake-platform.md)
-### [Snowflake Versions, Architecture and Pricing](snowflake-versions-architecture-and-pricing.md)
-### [Working With Snowflake Components](working-with-snowflake-components.md)
-### [Database, Schema, Role and User](snowflake-db-sch-role-user.md)
-### [Datatypes](snowflake-datatypes.md)
-### [DDL](snowflake-ddl.md)
+### [Introduction To Snowflake](snowflake-architecture/introduction-to-snowflake.md)
+### [Snowflake SaaS Cloud Platform](snowflake-architecture/snowflake-saas-cloud-platform.md)
+### [Traditional RDBMS vs Snowflake Platform](snowflake-architecture/traditional-rdbms-vs-snowflake-platform.md)
+### [Snowflake Versions, Architecture and Pricing](snowflake-architecture/snowflake-versions-architecture-and-pricing.md)
+### [Working With Snowflake Components](snowflake-architecture/working-with-snowflake-components.md)
+### [Database, Schema, Role and User](snowflake-sql/snowflake-createdb/snowflake-db-sch-role-user.md)
+### [Datatypes](snowflake-sql/snowflake-dataypes/snowflake-datatypes.md)
+### [DDL](snowflake-sql/snowflake-ddl/snowflake-ddl.md)
 * Create
 * Alter
 * Drop
-### [DDL - Constraints](snowflake-ddl-constraints.md)
+### [DDL - Constraints](snowflake-sql/snowflake-ddl/snowflake-ddl-constraints.md)
 * Not Null
 * Unique
 * Primary Key
 * Foreign Key
-### [DML](snowflake-dml.md)
+### [DML](snowflake-sql/snowflake-dml/snowflake-dml.md)
 * Insert
 * Update
 * Delete
-### [DQL Data Setup](snowflake-dql-data-setup.md)
-### [DQL](snowflake-dql.md)
+### [DQL Data Setup](snowflake-sql/snowflake-datasetup/snowflake-dql-data-setup.md)
+### [DQL](snowflake-sql/snowflake-dql/snowflake-dql.md)
 * Select
 * Where
 * Group By
 * Having
 * Order By
 * Limit
-### [DQL - Basic Operators](snowflake-dql-basic-operators.md)
+### [DQL - Basic Operators](snowflake-sql/snowflake-basicoperators/snowflake-dql-basic-operators.md)
 * Equality Operator (=)
 * Inequality Operator (<>)
 * IN Operator
@@ -51,17 +51,17 @@
 * Less Than or Equal To (<=)
 * EXISTS Operator
 * NOT EXISTS Operator
-### [DQL - Set Operations](snowflake-dql-set-operations.md)
+### [DQL - Set Operations](snowflake-sql/snowflake-setoperators/snowflake-dql-set-operations.md)
 * Union
 * Intersect
 * Except
-### [DQL - Joins](snowflake-dql-joins.md)
+### [DQL - Joins](snowflake-sql/snowflake-joins/snowflake-dql-joins.md)
 * Inner Join
 * Left Join (or Left Outer Join)
 * Right Join (or Right Outer Join)
 * Full Join (or Full Outer Join)
 * Cross Join
-### [DQL - String Functions](snowflake-dql-string-functions.md)
+### [DQL - String Functions](snowflake-sql/snowflake-stringfunctions/snowflake-dql-string-functions.md)
 * Length Function (LENGTH)
 * Substring Function (SUBSTR or SUBSTRING)
 * Concatenation Operator (||)
@@ -80,7 +80,7 @@
 * Coalesce Function (COALESCE)
 * SPLIT Function (SPLIT)
 * INITCAP Function (INITCAP)
-### [DQL - Date Functions](snowflake-dql-date-functions.md)
+### [DQL - Date Functions](snowflake-sql/snowflake-datefunctions/snowflake-dql-date-functions.md)
 * Current Date and Time (CURRENT_TIMESTAMP)
 * Date Part Function (DATE_PART)
 * Date Difference Function (DATEDIFF)
@@ -101,13 +101,13 @@
         * Cast a DateTime Timezone to another TimeZone
     * DATE_TRUNC Function (DATE_TRUNC)
     * EXTRACT Function (EXTRACT)
-### [DQL - Aggregate Functions](snowflake-dql-aggregate-functions.md)
+### [DQL - Aggregate Functions](snowflake-sql/snowflake-aggregate/snowflake-dql-aggregate-functions.md)
 * Count
 * Sum
 * Avg
 * Max
 * Min
-### [DQL - Analytical Functions](snowflake-dql-analytical-functions.md)
+### [DQL - Analytical Functions](snowflake-sql/snowflake-analytical/snowflake-dql-analytical-functions.md)
 * Aggregate Functions
 * ROW_NUMBER()
 * RANK()
@@ -117,7 +117,7 @@
 * LEAD()
 * FIRST_VALUE()
 * LAST_VALUE()
-### [DQL - Common Table Expressions (CTEs)](snowflake-dql-cte.md)
+### [DQL - Common Table Expressions (CTEs)](snowflake-sql/snowflake-cte/snowflake-dql-cte.md)
 * Creating a CTE
 * Using Multiple CTEs
 * Recursive CTEs
@@ -153,7 +153,7 @@
    - Data Recovery using TIMESTAMP
    - Fail Safe and UNDROP Operations
 
-3. [**Transient Tables**](snowflake-transient-tables.md)
+3. [**Transient Tables**](snowflake-advanced-features/snowflake-transient-tables.md)
    - Transient Tables and Real-time Usage
    - Differences Between Permanent and Transient Tables
    - Restrictions with Permanent Tables

@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # DDL - Constraints
 * In Snowflake, Data Definition Language (DDL) constraints are also used to enforce rules on the structure of a database table, ensuring data integrity and consistency by enforcing certain conditions on the data being inserted, updated, or deleted in the table.
@@ -108,7 +108,7 @@ CREATE TABLE orders (
 * For UNIQUE, PRIMARY KEY, and FOREIGN KEY constraints, Snowflake allows you to define them, but it does not enforce them. These constraints are used mainly for documentation and optimization purposes.
 * CHECK constraints are evaluated at the time of DML operations (INSERT, UPDATE), ensuring that the data adheres to the specified conditions.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

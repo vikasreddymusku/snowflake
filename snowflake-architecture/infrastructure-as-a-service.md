@@ -1,8 +1,8 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../snowflake_tinitiate.png)
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 # Infrastructure As A Service (IaaS)
 
@@ -46,7 +46,7 @@ Here are some key benefits of using IaaS:
 ## Conclusion
 Infrastructure As A Service (IaaS) is a valuable service that lets you rent virtual computers and storage from the cloud. It helps you save money, scale easily, and focus on your projects without worrying about managing physical hardware. With IaaS, you get the flexibility and convenience you need to run your applications and store your data efficiently.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

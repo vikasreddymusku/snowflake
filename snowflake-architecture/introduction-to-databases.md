@@ -1,8 +1,8 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../snowflake_tinitiate.png)
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 # Introduction to Databases
 
@@ -54,7 +54,7 @@ Let’s say you have a collection of books at home, and you want to organize the
 
 Databases are essential tools that help us organize, store, and retrieve large amounts of information efficiently and securely. They are used everywhere, from schools and libraries to businesses and hospitals. Understanding the basics of databases can help you appreciate how information is managed and accessed in our digital world.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

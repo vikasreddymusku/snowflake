@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # DQL - Basic Operators 
 - In Snowflake, operators are symbols or keywords used to perform operations on data, such as arithmetic operations, logical comparisons, and pattern matching.
@@ -162,7 +162,7 @@ WHERE NOT EXISTS (
 );
 ```
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

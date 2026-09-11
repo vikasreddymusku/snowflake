@@ -1,8 +1,8 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../snowflake_tinitiate.png)
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 # Working With Snowflake Components
 
@@ -97,7 +97,7 @@ To get started with Snowflake, you can sign up for a trial account. This gives y
 
 Once you’ve set up your account, you can access Snowflake through the web-based UI. From there, you can create warehouses, set up schemas, assign roles, and start running queries using worksheets.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

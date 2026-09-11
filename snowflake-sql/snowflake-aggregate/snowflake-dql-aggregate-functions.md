@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # DQL - Aggregate Functions
 - Aggregate functions in Snowflake are used to perform calculations on a set of values and return a single value as a result.
@@ -188,7 +188,7 @@ JOIN (
 AND (e.sal = salary_extremes.max_salary OR e.sal = salary_extremes.min_salary);
 ```
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

@@ -1,8 +1,8 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../snowflake_tinitiate.png)
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 # Traditional RDBMS vs Snowflake Platform
 
@@ -75,7 +75,7 @@ Here are some of the key benefits of using Snowflake over Traditional RDBMS:
 
 Traditional RDBMS have been reliable systems for managing data for many years. However, the Snowflake Platform offers a modern, cloud-based solution that simplifies data management, provides greater flexibility, and delivers high performance. With Snowflake, you can focus on using your data to gain insights and make decisions without worrying about the technical complexities. Snowflake is an essential tool for anyone looking to manage large amounts of data efficiently in today’s digital world.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

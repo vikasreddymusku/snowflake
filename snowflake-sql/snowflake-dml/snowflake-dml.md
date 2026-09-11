@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # DML - Data Manipulation Language
 * In Snowflake, Data Manipulation Language (DML) consists of SQL commands that allow users to manipulate data within a database.
@@ -81,7 +81,7 @@ DELETE FROM emp.dept WHERE deptid = 3000;
 DELETE FROM emp.emp WHERE empid = 101;
 ```
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

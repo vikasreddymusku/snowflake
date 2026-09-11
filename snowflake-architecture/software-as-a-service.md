@@ -1,8 +1,8 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../snowflake_tinitiate.png)
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 # Software As A Service (SaaS)
 
@@ -52,7 +52,7 @@ Here are some of the key benefits of using SaaS:
 
 Software As A Service (SaaS) is a powerful and convenient way to use software applications over the internet. It offers many benefits, including cost savings, ease of access, and automatic updates. With SaaS, you can focus on using the software to get your work done, without worrying about the technical details. SaaS is an essential service in our digital world, making it easier for individuals and businesses to access and use powerful software applications.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

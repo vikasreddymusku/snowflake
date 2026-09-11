@@ -1,8 +1,8 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../snowflake_tinitiate.png)
 # Snowflake 
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 # Introduction to Snowflake
 * Snowflake is a powerful cloud-based data warehousing solution developed by Snowflake Inc.
@@ -38,7 +38,7 @@
 * Snowflake is a versatile and feature-rich cloud data warehousing solution that offers a wide range of capabilities for storing, managing, and analyzing data.
 * Whether you're building a small-scale analytics application or a large-scale enterprise data processing system, Snowflake provides the tools and features you need to meet your data management needs effectively.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

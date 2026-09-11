@@ -1,8 +1,8 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../snowflake_tinitiate.png)
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 # Snowflake SaaS Cloud Platform
 
@@ -52,7 +52,7 @@ Here are some of the key benefits of using Snowflake:
 
 The Snowflake SaaS Cloud Platform is a powerful and user-friendly tool for storing, managing, and analyzing large amounts of data. It offers many benefits, including ease of use, scalability, cost-efficiency, and high performance. With Snowflake, you can focus on using your data to make informed decisions without worrying about the technical details. Snowflake is an essential tool for anyone who needs to manage large amounts of data in today’s digital world.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

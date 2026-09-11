@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # Database, Schema, Role and User
 * In Snowflake, a database serves as a structured collection of data.
@@ -61,7 +61,7 @@ CREATE SCHEMA employees;
 GRANT OWNERSHIP ON SCHEMA employees TO ROLE tirole;
 ```
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

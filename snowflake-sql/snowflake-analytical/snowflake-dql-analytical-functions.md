@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # DQL - Analytical Functions 
 - Analytical functions in Snowflake are used to perform calculations on a group of rows and return a single result set for each group, based on the values in one or more columns, often within a specified window or partition.
@@ -226,7 +226,7 @@ SELECT deptno, ename, sal,
 FROM employees.emp;
 ```
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

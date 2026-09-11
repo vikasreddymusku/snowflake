@@ -1,9 +1,9 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../../snowflake_tinitiate.png)
 
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 
 # Snowflake Data Types
 * Snowflake provides a variety of data types, each with unique strengths and limitations.
@@ -84,7 +84,7 @@
     * **SEMISTRUCTURED** - Used for semi-structured data types, including VARIANT, ARRAY, and OBJECT.
         * **Example:** `payload SEMISTRUCTURED`.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

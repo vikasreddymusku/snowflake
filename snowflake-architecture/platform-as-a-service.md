@@ -1,8 +1,8 @@
-![Snowflake Tinitiate Image](snowflake_tinitiate.png)
+![Snowflake Tinitiate Image](../snowflake_tinitiate.png)
 # Snowflake
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 # Platform As A Service (PaaS)
 
@@ -52,7 +52,7 @@ Here are some of the key benefits of using PaaS:
 
 Platform As A Service (PaaS) is a powerful tool that provides a ready-made environment for developing and deploying applications in the cloud. It simplifies the development process by taking care of the underlying infrastructure, allowing developers to focus on creating great applications. With PaaS, you can easily build, deploy, and scale your applications, making it an essential service in the modern digital world.
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|
